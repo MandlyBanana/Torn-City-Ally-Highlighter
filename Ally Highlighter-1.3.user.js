@@ -1,18 +1,16 @@
 // ==UserScript==
 // @name         Ally Highlighter
 // @namespace    https://github.com/MandlyBanana
-// @version      1.3
+// @version      1.3.1
 // @description  Highlights the faction icon on profile page and mini profiles for allied faction members
 // @author       Maus [3201874]
 // @license      MIT
 // @match        https://www.torn.com/*
 // @exclude      https://www.torn.com/page.php?sid=attack*
 // @run-at       document-idle
-// @downloadURL https://update.greasyfork.org/scripts/578655/Ally%20Highlighter.user.js
-// @updateURL https://update.greasyfork.org/scripts/578655/Ally%20Highlighter.meta.js
 // ==/UserScript==
 
-(function () {a
+(function () {
     'use strict';
 
     // ─── CONFIG ──────────────────────────────────────────────────
