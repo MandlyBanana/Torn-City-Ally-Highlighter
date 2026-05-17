@@ -2,3 +2,6 @@
 
 <h3>A greasemonkey extension that display a subtle opaque circle under the faction icon of faction you are in an alliance with.</h3>
 Does not update alliances automatically so might be out of date. (last updated 18-05-2026)
+
+<h2>Install</h2>
+<href>https://greasyfork.org/da/scripts/578655-ally-highlighter</href>
